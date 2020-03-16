@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "_doc": {
+      "properties": {
+        "tagline": {
+          "type": "completion"
+        },
+        "title": {
+          "type": "keyword"
+        }
+      }
+    }
+  }
+}
